@@ -1,4 +1,5 @@
 ## Snow Flake Generator
+![image](https://github.com/robbyseguin/Snow-Flake-Generator/assets/100798593/8d5d0dde-d2ba-4950-808d-39571f7f86a0)
 
 ## Description
 
