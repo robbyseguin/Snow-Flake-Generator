@@ -5,6 +5,8 @@
 - What was your motivation = How many snowflakes can i produce!
 - Why did you build this project?
 - Change my code so it works as a template as well
+- ![image](https://github.com/robbyseguin/Snow-Flake-Generator/assets/100798593/b03cd4e4-8736-4e09-b115-ca4308a22bb0)
+
 - Understanding the proper way of using the pooling system
 - Using Unique Pointers to prevent unnecessary new and deletes
 - Created a Snowflakepool class to manage everything.
