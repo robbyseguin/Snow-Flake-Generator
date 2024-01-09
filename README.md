@@ -9,6 +9,8 @@
 
 - Understanding the proper way of using the pooling system
 - Using Unique Pointers to prevent unnecessary new and deletes
+- ![image](https://github.com/robbyseguin/Snow-Flake-Generator/assets/100798593/1d7424b9-5d7f-4cb9-8111-dda511738256)
+
 - Created a Snowflakepool class to manage everything.
 - Profile performances
   
