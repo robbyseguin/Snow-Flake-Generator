@@ -1,4 +1,4 @@
-## <Snow Flake Generator>
+## Snow Flake Generator
 
 ## Description
 
